@@ -1,5 +1,6 @@
 {
-	"name": "astro-blog-starter-template",
+	// wrangler.json
+	"name": "summer-paper-c4ba",
 	"compatibility_date": "2025-10-08",
 	"compatibility_flags": ["nodejs_compat"],
 	"main": "./dist/_worker.js/index.js",
@@ -11,4 +12,5 @@
 		"enabled": true
 	},
 	"upload_source_maps": true
+	
 }
